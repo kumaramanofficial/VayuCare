@@ -1,0 +1,8 @@
+{
+  "name": "VayuCare — Urban Air Quality Assistant",
+  "description": "GenAI-powered urban air quality assistant helping families and communities navigate severe winter smog with live AQI forecasts, low-emission daily routines, indoor air quality hacks, and quantified choice impact.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
